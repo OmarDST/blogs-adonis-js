@@ -1,0 +1,27 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "cSpell.diagnosticLevel": "Error",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always",
+    "source.organizeImports": "always",
+    "source.removeUnused.ts": "explicit",
+    "source.removeUnusedImports": "explicit"
+  },
+  "cSpell.words": [
+    "adonisjs",
+    "cirolosapio",
+    "dbaeumer",
+    "devcontainer",
+    "devcontainers",
+    "errorlens",
+    "esbenp",
+    "flashpost",
+    "japa",
+    "jripouteau",
+    "Subas",
+    "typecheck",
+    "usernamehw"
+  ]
+}
